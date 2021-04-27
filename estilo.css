@@ -1,0 +1,10 @@
+.cabecera{
+    align-items: center;
+    font-family: Raleway;
+    /*color:rgb(159, 192, 211);*/
+    color:rgb(201, 205, 207);
+    font-size: 25px;            
+    padding: 15px;
+    background-color: rgb(3, 140, 216,1);
+    height: 350px;          
+}
